@@ -1,0 +1,4 @@
+eureka.client.serviceUrl.defaultZone=http://localhost:8010/eureka/
+words=a,the
+server.port=8020
+spring.application.name=lab-4-article
